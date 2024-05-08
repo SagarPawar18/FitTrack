@@ -3,8 +3,8 @@
 <b><a href="https://proud-ground-06cb9f410.4.azurestaticapps.net/">fitTrack</a></b>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> https://proud-ground-06cb9f410.4.azurestaticapps.net/ <br>
-<b>Github Repository URL :</b> https://github.com/SagarPawar18/FitTrack.git<br>
+<b>Project Demo URL :</b> https://lemon-river-01ce6eb10.5.azurestaticapps.net/ <br>
+<b>Github Repository URL :</b> https://github.com/SagarPawar18/FitTrack.git/<br>
 <b>Google Drive URL :https://1drv.ms/v/c/857ea00ddca95c1f/EcRIUaPhqX1Fjf5CiiHmal8BvFhz_Tpc1zpILriPLIe9fg?e=yhRBrQ</b> <br>
 <b>Industry :</b> Fitness and Health<br>
 
